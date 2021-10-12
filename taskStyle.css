@@ -1,0 +1,38 @@
+.container{
+    max-width:65%;
+    margin:auto;
+    justify-content: center;
+}
+ul li{
+    list-style:none;
+    display:inline-block;
+    padding:0%;
+}
+a{
+    text-decoration:none;
+}
+img{
+    width:65%;
+    height:100px;
+    margin:auto;
+}
+a:hover{
+    color:white;
+}
+nav{
+    background-color:orangered;
+    padding:3px;
+}
+button{
+    background-color:orangered;
+    border-color: black;
+}
+.ImgContainer{
+    display:flex;
+    justify-content:center;
+    flex-direction:row;
+    align-items:flex-end;
+}
+.ImgContainer img{
+
+}
