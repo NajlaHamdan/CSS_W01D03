@@ -1,4 +1,4 @@
-
+/*best practice body without style*/
 body{
     margin: 2%;
 }
@@ -12,7 +12,8 @@ p {
     color:maroon;
     font-family: 'Times New Roman', Times, serif;
 }
-
+/*inline no dimention no margin requier block*/
+/*last child take the last child from all parent*/
 img{
     width:300px;
     height:300px;
